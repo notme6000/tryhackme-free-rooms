@@ -31,7 +31,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 | **[Linux Fundamentals](#linux-fundamentals)**     |      **4**      |           **5**           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |     **13**      |                           |
-| **[Reconnaissance](#recon)**                      |     **10**      |                           |
+| **[Reconnaissance](#recon)**                      |     **9**       |                           |
 | **[Scripting](#scripting)**                       |      **7**      |                           |
 | **[Networking](#networking)**                     |      **7**      |                           |
 | **[Tooling](#tooling)**                           |     **19**      |                           |
@@ -148,8 +148,6 @@ In case you need deeper study into Linux read follow these:
 - [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
 - [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-
-- [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
 - [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
